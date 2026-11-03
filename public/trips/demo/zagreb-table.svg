@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">First table illustration</title>
+  <desc id="desc">An overhead table with bread, cheese, wine, and folded linens.</desc>
+  <rect width="1600" height="900" fill="#604831"/>
+  <path d="M0 110h1600M0 430h1600M0 750h1600M260 0v900M680 0v900M1100 0v900M1460 0v900" stroke="#735b44" stroke-width="8"/>
+  <ellipse cx="760" cy="450" rx="370" ry="290" fill="#d5d1c7"/>
+  <circle cx="760" cy="450" r="210" fill="#bcbbb6" stroke="#261f1a" stroke-width="8"/>
+  <path d="M640 430c60-130 230-145 310-35-10 150-120 235-260 205-70-50-90-105-50-170z" fill="#d8b74c" stroke="#261f1a" stroke-width="9"/>
+  <path d="M370 190c135 15 230 95 250 210-150 60-275 20-340-105z" fill="#d9bb7c" stroke="#261f1a" stroke-width="9"/>
+  <path d="M390 230c70 30 125 75 170 135M445 205c65 35 115 75 150 120" stroke="#f1dfb1" stroke-width="13"/>
+  <g transform="translate(1080 170)"><path d="M55 0h100l-15 250c-4 60-170 60-174 0z" fill="#e6e2d9" fill-opacity=".65" stroke="#261f1a" stroke-width="9"/><path d="M-20 165h150v85c0 48-150 48-150 0z" fill="#d7d059" opacity=".82"/></g>
+  <g transform="rotate(13 1250 650)"><rect x="1080" y="565" width="350" height="170" fill="#93c5fd"/><path d="M1080 650h350" stroke="#604831" stroke-width="6"/></g>
+  <g fill="#6e7b45"><ellipse cx="570" cy="650" rx="33" ry="20"/><ellipse cx="610" cy="690" rx="35" ry="18"/><ellipse cx="990" cy="390" rx="34" ry="20"/><ellipse cx="1025" cy="430" rx="32" ry="18"/></g>
+</svg>

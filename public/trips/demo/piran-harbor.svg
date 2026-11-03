@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Piran harbor illustration</title>
+  <desc id="desc">Small sailboats, terracotta roofs, and the Adriatic sea.</desc>
+  <rect width="1600" height="900" fill="#93c5fd"/>
+  <circle cx="1280" cy="155" r="80" fill="#f1d78e"/>
+  <path d="M0 360c220-45 410 48 630 0 220-48 400 28 620-8 130-22 240-11 350 12v536H0z" fill="#547f8a"/>
+  <path d="M0 585c260 55 430-30 690 16 230 40 500-55 910 9v290H0z" fill="#355f68"/>
+  <g stroke="#c4e2dd" stroke-width="10" fill="none" opacity=".65"><path d="M30 480c230 55 420-38 650 6s420-34 650 0 190 5 270 0"/><path d="M0 700c270 60 490-40 720 5s500-30 880 15"/></g>
+  <g transform="translate(120 190)"><path d="M0 190h620v170H0z" fill="#d2c4ae"/><path d="m0 190 110-95 110 95 120-120 130 120 80-90 70 90" fill="#9a4b3b"/><g fill="#604831"><rect x="70" y="245" width="55" height="115"/><rect x="265" y="235" width="60" height="125"/><rect x="490" y="245" width="55" height="115"/></g></g>
+  <g stroke="#261f1a" stroke-width="9"><path d="M970 195v380"/><path d="m970 225-170 230h170z" fill="#e9e3d5"/><path d="m980 245 150 220H980z" fill="#bcbbb6"/><path d="M770 575h390l-55 85H835z" fill="#8f4b35"/></g>
+  <g stroke="#261f1a" stroke-width="8"><path d="M1320 340v280"/><path d="m1320 360-115 165h115z" fill="#f0d798"/><path d="M1180 620h270l-45 65h-180z" fill="#604831"/></g>
+</svg>

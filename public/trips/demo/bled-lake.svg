@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Lake Bled illustration</title>
+  <desc id="desc">A church on a small island with mountains behind a quiet lake.</desc>
+  <rect width="1600" height="900" fill="#93c5fd"/>
+  <path d="M0 420 280 130l210 230L720 40l300 330 240-250 340 330v160H0z" fill="#7c8177"/>
+  <path d="m280 130 95 104-95 55-84-62zM720 40l130 143-126 70-116-80zM1260 120l125 125-118 63-105-80z" fill="#dce2df"/>
+  <path d="M0 475c300-30 510 25 800-12s490 25 800-5v442H0z" fill="#567b83"/>
+  <ellipse cx="820" cy="585" rx="335" ry="90" fill="#61704b"/>
+  <g transform="translate(705 250)"><path d="M0 305V95h230v210z" fill="#d8cbb5" stroke="#604831" stroke-width="10"/><path d="m-20 95 135-100 135 100z" fill="#9b4d3c" stroke="#604831" stroke-width="10"/><path d="M135 95V-90h65V95z" fill="#d8cbb5" stroke="#604831" stroke-width="10"/><path d="m120-90 48-95 47 95z" fill="#604831"/><rect x="90" y="195" width="60" height="110" fill="#604831"/></g>
+  <g fill="none" stroke="#a8ced9" stroke-width="10" opacity=".68"><path d="M0 695c250 40 440-25 690 5s520-35 910 8"/><path d="M0 835c310 35 490-30 800 4s520-32 800 4"/></g>
+</svg>

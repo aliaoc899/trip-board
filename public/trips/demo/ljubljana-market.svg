@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ljubljana Central Market illustration</title>
+  <desc id="desc">A riverside colonnade with market tables and winter produce.</desc>
+  <rect width="1600" height="900" fill="#93c5fd"/>
+  <rect y="250" width="1600" height="650" fill="#d4cfbf"/>
+  <path d="M0 150h1600v145H0z" fill="#604831"/>
+  <path d="M0 295h1600" stroke="#261f1a" stroke-width="16"/>
+  <g fill="#b8b0a0" stroke="#604831" stroke-width="10">
+    <path d="M70 780V305h125v475z"/><path d="M390 780V305h125v475z"/><path d="M710 780V305h125v475z"/><path d="M1030 780V305h125v475z"/><path d="M1350 780V305h125v475z"/>
+  </g>
+  <g fill="#261f1a"><rect x="185" y="650" width="215" height="105"/><rect x="505" y="650" width="215" height="105"/><rect x="825" y="650" width="215" height="105"/><rect x="1145" y="650" width="215" height="105"/></g>
+  <g fill="#71804b"><circle cx="240" cy="630" r="35"/><circle cx="310" cy="625" r="40"/><circle cx="375" cy="633" r="30"/></g>
+  <g fill="#b55b3f"><circle cx="560" cy="627" r="33"/><circle cx="625" cy="630" r="37"/><circle cx="685" cy="625" r="30"/></g>
+  <g fill="#d9b550"><circle cx="885" cy="630" r="34"/><circle cx="950" cy="625" r="40"/><circle cx="1010" cy="632" r="30"/></g>
+  <g fill="#ded7bd"><circle cx="1200" cy="630" r="33"/><circle cx="1265" cy="625" r="40"/><circle cx="1330" cy="632" r="31"/></g>
+  <path d="M0 800c280-55 420 60 700 0s430 50 900-10v110H0z" fill="#527783"/>
+</svg>

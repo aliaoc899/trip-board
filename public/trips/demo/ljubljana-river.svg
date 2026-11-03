@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ljubljanica River illustration</title>
+  <desc id="desc">A blue-green river passing beneath a stone bridge and winter trees.</desc>
+  <rect width="1600" height="900" fill="#93c5fd"/>
+  <path d="M0 420c240-90 430-35 620 10 250 60 450-40 980-40v510H0z" fill="#4f7777"/>
+  <g fill="#604831" stroke="#261f1a" stroke-width="8"><path d="M100 460V125h34v335zM60 265l58-65 60 65z"/><path d="M1440 430V95h34v335zM1385 245l72-80 74 80z"/></g>
+  <g fill="none" stroke="#d0cbc0" stroke-width="55"><path d="M320 510c180-180 390-180 570 0 180-180 390-180 570 0"/></g>
+  <path d="M250 490h1260v95H250z" fill="#d0cbc0" stroke="#604831" stroke-width="10"/>
+  <g fill="#b55b3f"><path d="M210 390V185h270v205z"/><path d="m190 185 155-115 155 115z"/><path d="M1120 375V175h285v200z"/><path d="m1095 175 165-110 165 110z"/></g>
+  <g fill="#e5d9bd"><rect x="270" y="270" width="65" height="120"/><rect x="370" y="270" width="65" height="120"/><rect x="1180" y="260" width="65" height="115"/><rect x="1290" y="260" width="65" height="115"/></g>
+  <g fill="none" stroke="#a8ced9" stroke-width="10" opacity=".7"><path d="M0 670c280 55 500-45 780 0s500-35 820 20"/><path d="M0 810c250 40 460-35 710 0 290 40 510-28 890 10"/></g>
+</svg>

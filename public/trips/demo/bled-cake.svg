@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Bled cream cake illustration</title>
+  <desc id="desc">A layered square of cream cake dusted with sugar beside a warm drink.</desc>
+  <rect width="1600" height="900" fill="#604831"/>
+  <ellipse cx="700" cy="655" rx="550" ry="150" fill="#8a6c4e"/>
+  <path d="M380 300h650l135 355H500z" fill="#d3a85f" stroke="#261f1a" stroke-width="12"/>
+  <path d="M400 355h650l40 105H440z" fill="#f1e6c8"/>
+  <path d="M440 460h650l42 110H480z" fill="#f8f1df"/>
+  <path d="M480 570h650l35 85H500z" fill="#d3a85f"/>
+  <path d="M380 300h650l20 55H400z" fill="#e9d9b1"/>
+  <g fill="#f8f1df"><circle cx="470" cy="315" r="7"/><circle cx="570" cy="330" r="7"/><circle cx="670" cy="310" r="8"/><circle cx="790" cy="326" r="7"/><circle cx="900" cy="312" r="8"/><circle cx="980" cy="332" r="6"/></g>
+  <g transform="translate(1180 220)"><path d="M0 0h220v300c0 100-220 100-220 0z" fill="#bcbbb6" stroke="#261f1a" stroke-width="12"/><path d="M220 75c150 0 150 190 0 190" fill="none" stroke="#bcbbb6" stroke-width="45"/><path d="M35 60h150" stroke="#84522f" stroke-width="60"/><path d="M60-90c-50 50 50 70 0 125M130-90c-50 50 50 70 0 125" fill="none" stroke="#d5cabb" stroke-width="13" stroke-linecap="round"/></g>
+  <g fill="#93c5fd"><circle cx="235" cy="175" r="25"/><circle cx="295" cy="130" r="13"/><circle cx="345" cy="190" r="17"/></g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dolac Market illustration</title>
+  <desc id="desc">Red market umbrellas, produce stalls, and a pale blue winter sky.</desc>
+  <rect width="1600" height="900" fill="#93c5fd"/>
+  <rect y="310" width="1600" height="590" fill="#c9c2b4"/>
+  <path d="M0 380h1600v520H0z" fill="#b0aa9e"/>
+  <path d="M85 370V130h310v240M120 180h240M170 130v-55h140v55" fill="#d5c9b6" stroke="#604831" stroke-width="18"/>
+  <g fill="#8e3934" stroke="#604831" stroke-width="10">
+    <path d="M120 470c55-125 245-125 300 0z"/><path d="M480 440c55-125 245-125 300 0z"/>
+    <path d="M830 490c55-125 245-125 300 0z"/><path d="M1180 430c55-125 245-125 300 0z"/>
+  </g>
+  <g stroke="#604831" stroke-width="12"><path d="M270 470v290M630 440v320M980 490v270M1330 430v330"/></g>
+  <g fill="#604831"><rect x="95" y="665" width="350" height="110"/><rect x="455" y="655" width="350" height="120"/><rect x="815" y="675" width="350" height="100"/><rect x="1175" y="650" width="330" height="125"/></g>
+  <g fill="#d8b74c"><circle cx="160" cy="650" r="35"/><circle cx="230" cy="642" r="28"/><circle cx="305" cy="650" r="36"/></g>
+  <g fill="#6d7841"><circle cx="530" cy="635" r="34"/><circle cx="605" cy="630" r="42"/><circle cx="690" cy="638" r="32"/></g>
+  <g fill="#a34d36"><circle cx="895" cy="655" r="30"/><circle cx="965" cy="653" r="36"/><circle cx="1040" cy="660" r="28"/></g>
+  <g fill="#e5d0a4"><circle cx="1250" cy="630" r="32"/><circle cx="1320" cy="625" r="40"/><circle cx="1410" cy="635" r="30"/></g>
+</svg>
